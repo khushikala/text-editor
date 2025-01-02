@@ -6,11 +6,11 @@ A lightweight text editor built using Java Swing. This editor supports basic tex
 >Open and save text files.\
 >Adjustable font size and font family.\
 >Customizable theme with caret and text colors.\
->Scrollable editing area for large files.\
+>Scrollable editing area for large files.
 
 # How to Run:
->Clone the repository.
->Compile and run the Main class in any Java IDE or terminal.
+>Clone the repository.\
+>Compile and run the Main class in any Java IDE or terminal.\
 >Start editing your text files!
 
 # Preview:
