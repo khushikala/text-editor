@@ -15,7 +15,6 @@ A lightweight text editor built using Java Swing. This editor supports basic tex
 
 # Preview: 
 Here are some screenshots:
-\
  # Screenshot 1:
 ![Screenshot (1)](https://github.com/user-attachments/assets/c600e080-451a-487b-ad61-b0a87b80b23d)  
 \
