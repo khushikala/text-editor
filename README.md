@@ -13,7 +13,7 @@ A lightweight text editor built using Java Swing. This editor supports basic tex
 >Compile and run the Main class in any Java IDE or terminal.\
 >Start editing your text files!
 
-# Preview:
+# Preview: \
 Here are some screenshots:\
 Screenshot 1:\
 ![Screenshot (1)](https://github.com/user-attachments/assets/c600e080-451a-487b-ad61-b0a87b80b23d)  \
