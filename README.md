@@ -3,10 +3,10 @@
 A lightweight text editor built using Java Swing. This editor supports basic text editing features, such as opening and saving .txt files, changing font size and family, and a user-friendly interface with a scrollable text area. Perfect for learning GUI programming and file handling in Java.
 
 # Features:
->Open and save text files.\n
->Adjustable font size and font family.
->Customizable theme with caret and text colors.
->Scrollable editing area for large files.
+>Open and save text files.\
+>Adjustable font size and font family.\
+>Customizable theme with caret and text colors.\
+>Scrollable editing area for large files.\
 
 # How to Run:
 >Clone the repository.
